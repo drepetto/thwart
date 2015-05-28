@@ -12,7 +12,6 @@ import random
 from chiplotle import *
 from chiplotle.hpgl.commands import PA, PR, PU, PD, IN, SP
 
-# just testing github stuff...
 
 # tranpose, rotate, scale and return munged copy
 # connect is whether or not we insert PU/PD between chunks to avoid connection lines
